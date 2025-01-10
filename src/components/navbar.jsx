@@ -7,7 +7,7 @@ export default function Navbar() {
             <div>
                 <h1>David Garcia</h1>
                 <ul>
-                    <li><NavLink to="/about">About Me</NavLink></li>
+                    <li><NavLink to="/">About Me</NavLink></li> {/* This is the home page. */}
                     <li><NavLink to="/portfolio">Portfolio</NavLink></li>
                     <li><NavLink to="/contact">Contact</NavLink></li>
                     <li><NavLink to="/resume">Resume</NavLink></li>
