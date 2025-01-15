@@ -36,7 +36,7 @@ export default function Footer() {
               </a>
               {/* Twitter (Example, if you'd like to add more links) */}
               <a
-                href="https://twitter.com/davidgarcia"
+                href="https://x.com/DavidGarci52733"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-900 dark:text-gray-200 hover:text-blue-500"

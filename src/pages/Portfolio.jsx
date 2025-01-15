@@ -14,47 +14,47 @@ export default function PortfolioPage() {
     {
       key: 2,
       img: "",
-      title: "To-Do App",
+      title: "Event Scheduler",
       description:
-        "A task management tool with CRUD operations and a clean UI built with React.",
+        "Allows users to manage their organized events by adding volunteers or employees to the user's personal schedule.",
       link: "#",
-      githublink: "https://github.com/username/todo-app",
+      githublink: "https://github.com/JacobBaqleh1/event-task-scheduler",
     },
     {
       key: 3,
       img: "",
-      title: "E-Commerce Store",
+      title: "Employee vault",
       description:
-        "A mock online store showcasing responsive design and shopping cart functionality.",
+        "A simple way to keep information on your employees, such as department, salary, name, and job role.",
       link: "#",
       githublink: "https://github.com/username/ecommerce-store",
     },
     {
       key: 4,
       img: "",
-      title: "Personal Blog",
+      title: "Fair-Fund",
       description:
-        "A blogging platform where users can write and manage articles with a rich text editor.",
+        "Fair Fund is a user-friendly web application designed to simplify expense tracking and improve financial management.",
       link: "#",
-      githublink: "https://github.com/username/personal-blog",
+      githublink: "https://github.com/david-garcia1/Fair-Fund",
     },
     {
       key: 5,
       img: "",
-      title: "Portfolio Website",
+      title: "Create-a-vehicle",
       description:
-        "A developer portfolio to showcase projects and skills, featuring a dynamic design.",
+        "Used to generate a personal garage of your vehicles inside the application.",
       link: "#",
-      githublink: "https://github.com/username/portfolio-website",
+      githublink: "https://github.com/david-garcia1/create-a-vehicle",
     },
     {
       key: 6,
       img: "",
-      title: "Recipe Finder",
+      title: "README-Creator",
       description:
-        "A recipe search app that fetches data from an API and filters results by ingredients.",
+        "This is a README creator for users that want to generate a professional README file.",
       link: "#",
-      githublink: "https://github.com/username/recipe-finder",
+      githublink: "https://github.com/david-garcia1/README-Creator",
     },
   ];
 

@@ -23,8 +23,7 @@ export default function about() {
             <span className="font-semibold text-gray-800 dark:text-gray-100">
               Passionate
             </span>{" "}
-            and results-driven UI/UX designer with seven years of experience in
-            crafting intuitive and visually appealing user experiences. Skilled in{" "}
+             full stack developer that recently enrolled in the August 2024 - Feb 2025 edX Coding bootcamp. Skilled currently in {" "}
             <span className="text-blue-600 dark:text-blue-400">
               user research
             </span>
@@ -40,11 +39,8 @@ export default function about() {
             <span className="text-blue-600 dark:text-blue-400">
               usability testing
             </span>
-            . Strong collaborator and advocate for{" "}
-            <span className="font-semibold text-gray-800 dark:text-gray-100">
-              user-centered design
-            </span>
-            . Seeking new opportunities to create impactful digital products.
+            . Strong collaborator and advocate,{" "}
+            seeking new opportunities to create impactful digital products.
           </p>
         </div>
       </div>
