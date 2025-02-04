@@ -11,11 +11,6 @@ export default function PortfolioUI({ projects }) {
               key={project.key}
               className="bg-white dark:bg-gray-800 rounded-lg shadow-md overflow-hidden"
             >
-              <img
-                src={project.img || "https://via.placeholder.com/400"}
-                alt={`Preview of ${project.title}`}
-                className="w-full h-48 object-cover"
-              />
               <div className="p-4">
                 <h2 className="text-xl font-semibold text-gray-900 dark:text-white mb-2">
                   {project.title}
@@ -24,14 +19,6 @@ export default function PortfolioUI({ projects }) {
                   {project.description}
                 </p>
                 <div className="flex items-center space-x-4">
-                  <a
-                    href={project.link || "#"}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-blue-600 dark:text-blue-400 hover:underline text-sm"
-                  >
-                    View Website
-                  </a>
                   <a
                     href={project.githublink || "#"}
                     target="_blank"
