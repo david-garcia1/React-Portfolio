@@ -13,3 +13,5 @@ React – A powerful JavaScript library for building dynamic user interfaces.
 TailwindCSS – A utility-first CSS framework for styling and responsive design.
 
 JavaScript/Typescript – The core programming language driving the interactivity of the site.
+
+Vite – A fast and optimized build tool for modern web development.
